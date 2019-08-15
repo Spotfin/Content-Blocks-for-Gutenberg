@@ -10,8 +10,11 @@ Reusable content blocks for use with Gutenberg
 - Now you will find a new Gutenberg Block called Content Block, where you can select to display the block anywhere you like.
 
 ![Image of Content Block Post Type](https://spotfincreative.com/wp-content/uploads/2019/08/cbg1.png)
+<br/>
 ![Image of Content Block](https://spotfincreative.com/wp-content/uploads/2019/08/cbg2.png)
+<br/>
 ![Image of Content Block in Gutenberg](https://spotfincreative.com/wp-content/uploads/2019/08/cbg3.png)
+<br/>
 ![Image of Content Block Displayed in Gutenberg](https://spotfincreative.com/wp-content/uploads/2019/08/cbg4.png)
 
 ##### Credits
