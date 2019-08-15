@@ -1,4 +1,4 @@
-# Content-Blocks-for-Gutenberg
+# Content Blocks for Gutenberg
 
 Reusable content blocks for use with Gutenberg
 
@@ -20,4 +20,5 @@ Reusable content blocks for use with Gutenberg
 ##### Credits
 
 Stole some code from @theandystratton
+<br/>
 Plugin built by <a href="https://spotfincreative.com">Spotfin Creative</a>
